@@ -11,6 +11,8 @@
     <modules>
         <module>mybatisStudy</module>
         <module>CodeInterviewGuide</module>
+        <module>SpringStudy</module>
+        <module>SpringStudy</module>
     </modules>
 
     <dependencies>
