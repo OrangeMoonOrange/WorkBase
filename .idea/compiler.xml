@@ -11,6 +11,8 @@
         <module name="mybatisStudy" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="CodeInterviewGuide" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
