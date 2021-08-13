@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JavaSe" />
         <module name="CodeInterviewGuide" />
         <module name="SpringStudy" />
         <module name="mybatisStudy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="CodeInterviewGuide" target="8" />
+      <module name="CodeInterviewGuide" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

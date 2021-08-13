@@ -14,6 +14,7 @@
         <module>SpringStudy</module>
         <module>SpringStudy</module>
         <module>CodeInterviewGuide</module>
+        <module>JavaSe</module>
     </modules>
 
     <dependencies>
